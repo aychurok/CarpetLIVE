@@ -97,8 +97,7 @@ header .navbar-form .form-control {
 .main-content {
 	padding-top: 100px;
 	padding-bottom: 100px;
-background: #fff url('../img/back.jpg');
-	
+	background: #fff url('../img/back.jpg') center center no-repeat fixed;
 }
 .main-content.bottom-0 { padding-bottom: 0; }
 /*
@@ -109,7 +108,6 @@ background: #fff url('../img/back.jpg');
 	padding-top: 20px;
 	padding-bottom: 40px;
 	text-align: center;
-	background: #fff url('../img/back.jpg');
 }
 
 .banner h2 {
